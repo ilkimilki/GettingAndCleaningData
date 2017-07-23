@@ -42,7 +42,7 @@ Copy the run_analysis.R file to the directory you want to perform the analysis a
 
 ### Output 
 
-tidy.txt is a tab delimited file containing the mean values of all signals of each activity feature per subject and activity
+tidy.txt contains the mean values of all signals of each activity feature per subject and activity
 
 
 
