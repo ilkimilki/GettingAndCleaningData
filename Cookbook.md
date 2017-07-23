@@ -1,4 +1,4 @@
-#Cookbook for run_analysis.R
+# Cook book for run_analysis.R
 
 Data table dt contains merged data from training and test set for all subjects in the study and by activity. 
 _value_ and _featurename_ pairs list the idividual time and frequency measurements. 
