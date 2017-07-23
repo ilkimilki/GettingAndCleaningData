@@ -40,11 +40,9 @@ Copy the run_analysis.R file to the directory you want to perform the analysis a
 - Comment out lines between _## Download and unzip data_ and _## Read in the data_ 
 - Change path name in line 16 to where you unzipped the Samsung dataset 
 
-### Output files
+### Output 
 
-dt is a data frame which contains the mean and std for the individual time and frequency signals of all activity features per subject and activity
-
-tidy_dt contains the mean values of all signals of each activity feature per subject and activity
+tidy.txt is a tab delimited file containing the mean values of all signals of each activity feature per subject and activity
 
 
 
